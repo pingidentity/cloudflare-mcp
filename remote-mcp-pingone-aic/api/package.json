@@ -10,7 +10,7 @@
     "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {
-    "hono": "^4.10.6",
+    "hono": "^4.11.7",
     "jose": "^6.1.2"
   },
   "devDependencies": {
