@@ -10,7 +10,7 @@
 		"deploy": "npm run build && wrangler deploy"
 	},
 	"dependencies": {
-		"@modelcontextprotocol/sdk": "1.24.0",
+		"@modelcontextprotocol/sdk": "1.26.0",
 		"agents": "^0.2.23",
 		"hono": "^4.10.6",
 		"jose": "^6.1.2",
